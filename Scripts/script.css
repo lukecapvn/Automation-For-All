@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(6, 33, 43);
+  }
+  .container {
+    max-width: 500px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #fff; /* Set the text color to white */
+  }
+  
+  p {
+    font-size: 16px;
+    color: #fff; /* Set the text color to white */
+    margin-bottom: 20px;
+  }
+
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f44336;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .button:hover {
+    background-color: #e53935;
+  }
